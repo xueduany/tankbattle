@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xueduany/tankbattle/main/public/screenshots/screenshoot-game.png" alt="Tank Battle Game" width="600"/>
   <h1>🎮 多人坦克大战 / Multiplayer Tank Battle</h1>
   <p>一款基于 WebRTC 的双人联机坦克大战游戏</p>
   <p>A multiplayer tank battle game based on WebRTC</p>
